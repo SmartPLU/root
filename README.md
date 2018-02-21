@@ -10,3 +10,5 @@ Le parti-pris est de tester la méthode sur les points les plus complexes, à sa
 Seules deux ou trois servitudes seront traitées dans la PoC.
 
 Une des productions en cours est la fabrication d'une ontologie qui sera un premier sous-produit du projet. Nous espérons qu'elle conduira à une densification du thésaurus Urbamet https://cui.unige.ch/isi/onto/ 
+
+Pour en savoir plus, lire le Journal du projet : https://github.com/SmartPLU/PoCSmartPLU/wiki/%23-Journal-du-projet-SmartPLU
