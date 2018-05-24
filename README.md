@@ -1,5 +1,6 @@
 
 Projet SmartPLU
+21/02/2018
 
 Cet espace est celui du projet SmartPLU, dont l'objectif est d'aider à la conception des PLU par les collectivités.
 L'idée est de s'appuyer sur la méthode du Machine learning pour extraire des fichiers PDF des PLU déposés sur le Géoportail de l'urbanisme les contraintes de formes puis modéliser les règles en 3D à la parcelle. Une illustration « représentant rigoureusement les règles d’urbanisme », même si elles sont in fine dessinées à la main à ce stade, sera l'un des livrables.
